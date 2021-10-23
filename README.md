@@ -1,2 +1,2 @@
 # hello-world
-General ideas
+General ideas to be commited
